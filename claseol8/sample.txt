@@ -1,0 +1,6 @@
+Producto1 170
+Producto2 250
+Producto3 720
+Producto1 170
+Producto2 250
+Producto3 720
